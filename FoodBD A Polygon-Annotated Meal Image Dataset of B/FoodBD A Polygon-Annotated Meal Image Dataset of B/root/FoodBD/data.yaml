@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 67
+names: ['achar', 'apple', 'badam', 'banana', 'beef', 'begun-vaji', 'beguni', 'biriyani', 'bread', 'burinda', 'cabbage', 'carrot', 'cauliflower', 'cha', 'chichinga-vaji', 'chicken', 'chola', 'chomchom', 'chop-alu', 'cucumber', 'daal', 'dates', 'dundol', 'egg', 'egg-boiled', 'egg-poached', 'fish', 'grapes', 'green-pea', 'guava', 'jilapi', 'juice', 'kabab', 'khichuri', 'kochu', 'korola-vaji', 'kumra-vaji', 'lal-shak', 'lau', 'lemon', 'mango', 'milk', 'noodles', 'okra', 'orange', 'papaya', 'payesh', 'peyaju', 'pineapple', 'piyaju', 'potato', 'potato-mashed', 'potol', 'puffed-rice', 'puri', 'rice', 'roll', 'ruti', 'salad', 'shak', 'shim', 'sweets', 'tomato', 'vaji', 'vegetable', 'vorta', 'watermelon']
